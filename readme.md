@@ -24,5 +24,5 @@ The data wrangling I  made were
 
 ## Key Insights for Presentation
 
-1- The user type and day of the week have strong relation with the number of trips
-2- The starting hour and day of the week have strong relation with the average rental duration time.
+-The user type and day of the week have strong relation with the number of trips
+-The starting hour and day of the week have strong relation with the average rental duration time.
